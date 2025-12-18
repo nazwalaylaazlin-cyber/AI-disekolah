@@ -23,3 +23,8 @@
         transform: translateY(0px);
     }
 }
+.robot-login {
+    width: 120px;
+    margin-bottom: 15px;
+    animation: float 2.5s ease-in-out infinite;
+}
